@@ -5,6 +5,6 @@
 
 module.exports = {
     cookieSecret: 'myblog',
-    db: 'blog11',
+    db: 'blog',
     host: 'localhost'
 }; 
